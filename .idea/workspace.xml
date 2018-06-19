@@ -4,6 +4,7 @@
     <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/Pages/fil_doc.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/Pages/fil_doc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/blank.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/buh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/ekupr.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/fin-men.html" afterDir="false" />
@@ -27,101 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fil_doc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/Pages/fil_doc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gb.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/gb.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prav_reg.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/prav_reg.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="per_vsfer_prof.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/per_vsfer_prof.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fin_cred.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/fin_cred.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spec_zakup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/spec_zakup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fin-men.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/fin-men.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buh.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/buh.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ekupr.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/ekupr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gos_mu_upr.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/gos_mu_upr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -401,6 +308,35 @@
               <item name="fil" type="462c0819:PsiDirectoryNode" />
               <item name="smolensk" type="462c0819:PsiDirectoryNode" />
               <item name="dpo" type="462c0819:PsiDirectoryNode" />
+              <item name="qualification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="fil" type="462c0819:PsiDirectoryNode" />
+              <item name="smolensk" type="462c0819:PsiDirectoryNode" />
+              <item name="dpo" type="462c0819:PsiDirectoryNode" />
+              <item name="qualification" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="fil" type="462c0819:PsiDirectoryNode" />
+              <item name="smolensk" type="462c0819:PsiDirectoryNode" />
+              <item name="dpo" type="462c0819:PsiDirectoryNode" />
               <item name="retraining" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -469,9 +405,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\dpo\retraining\Pages" />
       <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\about\method" />
       <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\dpo\qualification\Pages" />
-      <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\dpo\retraining\Pages" />
       <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\dpo\retraining" />
       <recent name="C:\Users\nvboltushenkov\IntelliJIDEAProjects\fa\src\com\company\Site\ru\fa\old\fil\smolensk\dpo\Pages" />
     </key>
@@ -543,7 +479,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1040" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -583,13 +518,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added retraining + приказ 39 повышен квал" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/docs/Pages/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1266,6 +1194,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/gb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#u#0;n#a#0;n#h3#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#div#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#p#8;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/Pages/fil_doc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1273,13 +1252,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/gb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1338,6 +1310,9 @@
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/blank.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
