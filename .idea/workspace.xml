@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/dep/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/dep/dpo/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/dep/dpo/docs/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/dep/dpo/docs/Pages/docs-fa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/qualification/Pages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/qualification/Pages/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/retraining/Pages/default.html" afterDir="false" />
-    </list>
+    <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,6 +51,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1381" />
     <option name="y" value="93" />
     <option name="width" value="1061" />
@@ -352,8 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="1040" extended-state="7" />
-    <editor active="true" />
+    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1170,6 +1163,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
