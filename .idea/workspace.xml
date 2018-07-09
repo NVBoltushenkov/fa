@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader.html" afterDir="false" />
-    </list>
+    <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
