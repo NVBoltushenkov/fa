@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20cf2f1c-d369-40c6-9bc3-6f52eb99ff38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/maindata/Pages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/maindata/Pages/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,41 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/maindata/Pages/default.png">
+      <file leaf-file-name="leader1.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="leader2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader2.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -125,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1613" />
     <option name="y" value="156" />
     <option name="width" value="959" />
@@ -309,6 +281,20 @@
               <item name="old" type="462c0819:PsiDirectoryNode" />
               <item name="fil" type="462c0819:PsiDirectoryNode" />
               <item name="smolensk" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="fa" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="fil" type="462c0819:PsiDirectoryNode" />
+              <item name="smolensk" type="462c0819:PsiDirectoryNode" />
               <item name="Pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -460,20 +446,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added retraining + приказ 39 повышен квал" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/Pages/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/dpo/qualification/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Telephone/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -727,13 +699,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/Pages/new pages/History5.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/Pages/new pages/History.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -745,6 +710,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/maindata/Pages/default.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -760,14 +735,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/Pages/1.html">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/pk-smolensk/baccalaureate/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/maindata/Pages/default.png">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Site/ru/fa/old/fil/smolensk/about/Pages/leader1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
